@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotes_motivation">
+        <item>Делай что можешь, с тем что имеешь, там где ты есть.</item>
+        <item>Единственный способ сделать великую работу — любить то, что делаешь.</item>
+        <item>Успех — это способность идти от неудачи к неудаче, не теряя энтузиазма.</item>
+        <item>Через двадцать лет вы будете больше разочарованы тем, что не сделали, чем тем, что сделали.</item>
+        <item>Начни с того, что необходимо, потом сделай возможное, и вдруг ты делаешь невозможное.</item>
+    </string-array>
+    <string-array name="authors_motivation">
+        <item>Теодор Рузвельт</item>
+        <item>Стив Джобс</item>
+        <item>Уинстон Черчилль</item>
+        <item>Марк Твен</item>
+        <item>Франциск Ассизский</item>
+    </string-array>
+
+    <string-array name="quotes_wisdom">
+        <item>Я знаю только то, что ничего не знаю.</item>
+        <item>Всё течёт, всё меняется.</item>
+        <item>Кто хочет — ищет способ, кто не хочет — ищет причину.</item>
+        <item>Не важно, как медленно ты идёшь, главное — не останавливаться.</item>
+        <item>Лучше зажечь одну маленькую свечу, чем проклинать темноту.</item>
+        <item>Ты не можешь изменить направление ветра, но можешь поднять паруса.</item>
+        <item>Если ты не можешь объяснить это просто — ты сам ещё не понял.</item>
+    </string-array>
+    <string-array name="authors_wisdom">
+        <item>Сократ</item>
+        <item>Гераклит</item>
+        <item>Сенека</item>
+        <item>Конфуций</item>
+        <item>Конфуций</item>
+        <item>Оскар Уайльд</item>
+        <item>Альберт Эйнштейн</item>
+    </string-array>
+
+    <string-array name="quotes_humor">
+        <item>Никогда не откладывай на завтра то, что можно отложить на послезавтра.</item>
+        <item>Ученье — свет, а неучёных — тьма.</item>
+        <item>Всё, что нас не убивает, делает нас сильнее. Но иногда — калечит.</item>
+        <item>Я не ленивый, я в энергосберегающем режиме.</item>
+    </string-array>
+    <string-array name="authors_humor">
+        <item>Марк Твен</item>
+        <item>Народный юмор</item>
+        <item>Фридрих Ницше</item>
+        <item>Аноним</item>
+    </string-array>
+
+    <string-array name="quotes_study">
+        <item>Учиться, учиться и ещё раз учиться.</item>
+        <item>Корень учения горек, да плод его сладок.</item>
+        <item>Повторение — мать учения.</item>
+        <item>Век живи — век учись.</item>
+        <item>Знание — сила.</item>
+    </string-array>
+    <string-array name="authors_study">
+        <item>Владимир Ленин</item>
+        <item>Аристотель</item>
+        <item>Народная мудрость</item>
+        <item>Народная мудрость</item>
+        <item>Фрэнсис Бэкон</item>
+    </string-array>
+</resources>

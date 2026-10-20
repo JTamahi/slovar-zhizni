@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="card_corner">12dp</dimen>
+    <dimen name="block_margin">14dp</dimen>
+    <dimen name="text_label">11sp</dimen>
+    <dimen name="text_quote">17sp</dimen>
+    <dimen name="text_author">13sp</dimen>
+    <dimen name="button_text">12sp</dimen>
+</resources>

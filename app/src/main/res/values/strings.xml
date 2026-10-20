@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Словарь Жизни</string>
+
+    <string name="label_quote_of_day">МЫСЛЬ ДНЯ</string>
+    <string name="label_random_quote">СЛУЧАЙНАЯ ЦИТАТА</string>
+    <string name="title_favorites">Избранное</string>
+    <string name="title_add_quote">Своя цитата</string>
+
+    <string name="cat_all">Все</string>
+    <string name="cat_motivation">Мотивация</string>
+    <string name="cat_wisdom">Мудрость</string>
+    <string name="cat_humor">Юмор</string>
+    <string name="cat_study">Учёба</string>
+    <string name="cat_custom">Мои цитаты</string>
+
+    <string name="btn_another">Другая</string>
+    <string name="btn_favorite">В избранное</string>
+    <string name="btn_favorites">Избранное</string>
+    <string name="btn_add_quote">Добавить</string>
+    <string name="btn_share">Поделиться</string>
+    <string name="btn_delete_custom">Удалить свою</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_delete">Удалить</string>
+
+    <string name="hint_quote">Текст цитаты</string>
+    <string name="hint_author">Автор</string>
+    <string name="hint_author_optional">Автор (необязательно)</string>
+
+    <string name="error_empty_quote">Введите текст цитаты</string>
+    <string name="error_already_favorite">Цитата уже в избранном</string>
+    <string name="error_empty_favorites">Здесь пока пусто</string>
+    <string name="error_no_custom_quotes">У вас пока нет своих цитат</string>
+    <string name="unknown_author">Неизвестный автор</string>
+    <string name="favorite_added">Добавлено в избранное</string>
+    <string name="quote_deleted">Цитата удалена</string>
+    <string name="copied_to_clipboard">Скопировано</string>
+</resources>
